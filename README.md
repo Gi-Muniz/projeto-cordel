@@ -30,7 +30,7 @@ Projeto finalizado como parte dos meus estudos iniciais em front-end.
 
 ## Autora
 
-Desenvolvido por **Gi Muniz**, com base em atividade prática do Curso em Vídeo.
+Desenvolvido por **Gi Muniz**, com base em atividade prática do Curso em Vídeo - Gustavo Guanabara.
 
 [GitHub](https://github.com/Gi-Muniz)
 [LinkedIn](https://www.linkedin.com/in/gi-franco-muniz/)
